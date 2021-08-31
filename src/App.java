@@ -6,8 +6,8 @@ public class App {
         Condicao cond = new Condicao();
         Ordem od = new Ordem();
 
-        //fat.fat(30);
+        //fat.fat(numero parar efetuar o fatorial);
         //cond.condicao();
-        od.mult();
+        //od.mult();
     }
 }
