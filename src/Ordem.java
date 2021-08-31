@@ -1,17 +1,21 @@
+import java.util.Scanner;
+
 public class Ordem {
 
-    public void mult(int x){
+    public void mult(){
 
         //n n*2 n*3 .... n*n
 
-        int h = 1;
+        Scanner sc = new Scanner(System.in);
 
-        while(x <= h){
-            System.out.println(x*h);
-            h++;
+        System.out.print("Enter a number: ");
+        int num = sc.nextInt();
+
+        int x = 1;
+
+        while(x < num+1){
+            System.out.print(x*num + " ");
+            x++;
         }
-        
-
     }
-    
 }

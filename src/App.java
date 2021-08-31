@@ -8,6 +8,6 @@ public class App {
 
         //fat.fat(30);
         //cond.condicao();
-        od.mult(5);
+        od.mult();
     }
 }
