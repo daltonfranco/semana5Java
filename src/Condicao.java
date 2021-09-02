@@ -20,7 +20,5 @@ public class Condicao {
                 System.out.println(num);
             }
         }
-
     }
-    
 }
