@@ -9,8 +9,5 @@ public class App {
         //fat.fat(numero parar efetuar o fatorial);
         //cond.condicao();
         //od.mult();
-        Encadeado encad = new Encadeado();
-
-        encad.encad();
     }
 }
